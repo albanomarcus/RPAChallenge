@@ -1,0 +1,24 @@
+# Arquivos e pastas do UiPath
+.local/
+.screenshots/
+.localproject/
+.settings/
+*.local/
+*.screenshots/
+*.localproject/
+*.settings/
+
+# Arquivos de log e temporários
+*.log
+*.etl
+*.nupkg
+*.vsmacros
+
+# Configurações do Visual Studio
+.vs/
+*.suo
+*.user
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
